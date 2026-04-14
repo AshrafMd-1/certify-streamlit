@@ -1,19 +1,19 @@
 # Certify
 
-> **Archived** — This project has been archived due to the deprecation of **Deta Base** and **Deta Drive**, which are no longer supported. The application is no longer functional in its current state.
+> **Archived** - This project has been archived due to the deprecation of **Deta Base** and **Deta Drive**, which are no longer supported. The application is no longer functional in its current state.
 
-**Certify** is a Streamlit-based web application for generating and distributing personalized certificates. It lets organizers manage events, upload participant lists, design certificate templates, and lets participants download their own certificates — all from a browser.
+**Certify** is a Streamlit-based web application for generating and distributing personalized certificates. It lets organizers manage events, upload participant lists, design certificate templates, and lets participants download their own certificates - all from a browser.
 
 ---
 
 ## Features
 
-- **Authentication** — Secure login system for organizers
-- **Event Management** — Create and manage events with a name and description
-- **Participant Upload** — Upload participants via CSV, preview and edit the list before saving
-- **Certificate Templates** — Upload PNG/JPG certificate templates per event
-- **Certificate Customization** — Visually position and style the participant name on the certificate (font size, color, X/Y position, horizontal alignment)
-- **Self-Service Download** — Participants can find their event, select their name, preview, and download their certificate
+- **Authentication** - Secure login system for organizers
+- **Event Management** - Create and manage events with a name and description
+- **Participant Upload** - Upload participants via CSV, preview and edit the list before saving
+- **Certificate Templates** - Upload PNG/JPG certificate templates per event
+- **Certificate Customization** - Visually position and style the participant name on the certificate (font size, color, X/Y position, horizontal alignment)
+- **Self-Service Download** - Participants can find their event, select their name, preview, and download their certificate
 
 ## Tech Stack
 
