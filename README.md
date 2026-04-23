@@ -57,7 +57,3 @@ certify-streamlit/
 ## Why It's Archived
 
 Certify was built on [Deta Space](https://deta.space)'s free database (`Deta Base`) and file storage (`Deta Drive`). Deta deprecated these services, making the backend non-functional. A migration to an alternative backend (e.g., Supabase, Firebase, or a self-hosted database) would be required to revive the project.
-
-## License
-
-This project is archived and provided as-is for reference purposes.
